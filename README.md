@@ -1,7 +1,5 @@
 # CI-CD-Viz
 
-#  CI/CD Pipeline Visualizer
-
 A modern React application for monitoring and visualizing CI/CD pipelines with real-time GitHub integration.
 
 ## Features
